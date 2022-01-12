@@ -1,0 +1,8 @@
+.border-around {
+  border: 5px solid #eee;
+  padding: 2px;
+  background-color: #1ab3ed54;
+}
+.navbar {
+  height: 60px;
+}
